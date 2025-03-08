@@ -1,0 +1,12 @@
+[project]
+name = "talabat-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipython>=8.29.0",
+    "marimo>=0.11.17",
+    "pandas>=2.2.3",
+    "scrapy>=2.12.0",
+]
